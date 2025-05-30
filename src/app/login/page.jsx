@@ -5,7 +5,7 @@ export default function Login() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white flex items-center justify-center py-16 px-4">
       <div className="w-full max-w-md bg-gray-800 rounded-xl p-8 shadow-lg animate-fade-in-up">
-        <h1 className="text-3xl md:text-4xl font-extrabold mb-6 bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent text-center">Login to MyGym</h1>
+        <h1 className="text-3xl md:text-4xl font-extrabold mb-6 bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent text-center">Login to Elite Fitness</h1>
         <form className="space-y-6">
           <input type="email" placeholder="Email" className="w-full p-3 rounded bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-yellow-400" />
           <input type="password" placeholder="Password" className="w-full p-3 rounded bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-yellow-400" />
